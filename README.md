@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Handwritten prescriptions from doctors are still a common practice in many healthcare settings. However, these prescriptions can be difficult to read, leading to errors in medication administration and potentially jeopardizing patient safety. Automating the process of reading and interpreting these prescriptions could significantly improve the accuracy and efficiency of medication management.
+Handwritten prescriptions from doctors are still a common practice in many healthcare settings. However, these prescriptions can be difficult to read, leading to errors in medication administration and potentially jeopardizing patient safety. Automating the process of reading and interpreting these prescriptions could significantly improve the accuracy and efficiency of medication management and also allows users to either take a picture of the prescription or upload one from the photo library. Once the image is processed, the app detects and highlights the medicines mentioned in the note.
 
 
 ## Objectives:
