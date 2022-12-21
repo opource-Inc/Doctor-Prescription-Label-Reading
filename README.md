@@ -54,9 +54,10 @@ To achieve the above objectives, the following methods will be employed (You may
 
 There are several sources where we can obtain datasets for the above project:
 
-- [Publicly available datasets](): There are several publicly available datasets that you can use for the project. Some examples include the MNIST dataset, which contains handwritten digits, and the IAM handwriting dataset, which contains handwritten text.
+- [Publicly available datasets](): There are several publicly available datasets that you can use for the project which contains handwritten text.
 
 - [Crowdsourced datasets](): Another option is to create a crowdsourced dataset by asking people to contribute their handwritten prescriptions. This can be done through online platforms or by recruiting participants through a study.
+  - A croudsourced website to collect various data points to create datasets for research works/projects.
 
 - [Healthcare organizations](): You can also try reaching out to healthcare organizations, such as hospitals and clinics, to see if they are willing to share their datasets of handwritten prescriptions.
 
