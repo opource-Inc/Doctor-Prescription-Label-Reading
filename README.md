@@ -48,3 +48,18 @@ To achieve the above objectives, the following methods will be employed (You may
 - It is expected that the proposed project aims to develop an automated system that can accurately read and interpret handwritten prescriptions from doctors, significantly improving the accuracy and efficiency of medication management. 
 
 - The successful implementation of this system will also have the potential to significantly improve patient safety by reducing the incidence of medication errors, which can have serious consequences for patients.
+
+
+## Datasets 
+
+There are several sources where we can obtain datasets for the above project:
+
+- [Publicly available datasets](): There are several publicly available datasets that you can use for the project. Some examples include the MNIST dataset, which contains handwritten digits, and the IAM handwriting dataset, which contains handwritten text.
+
+- [Crowdsourced datasets](): Another option is to create a crowdsourced dataset by asking people to contribute their handwritten prescriptions. This can be done through online platforms or by recruiting participants through a study.
+
+- [Healthcare organizations](): You can also try reaching out to healthcare organizations, such as hospitals and clinics, to see if they are willing to share their datasets of handwritten prescriptions.
+
+- [Data aggregators](): There are also companies that specialize in aggregating and selling datasets for machine learning projects. These datasets may come at a cost, but they can be a convenient source for obtaining large amounts of high-quality data.
+
+*Regardless of the source, it is important to ensure that the dataset is representative of the real-world scenarios in which the system will be used, and that appropriate ethical and privacy considerations are taken into account.*
