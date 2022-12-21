@@ -19,11 +19,30 @@ To achieve the above objectives, the following methods will be employed (You may
 
  - [Data collection](): A large dataset of handwritten prescriptions will be collected from various healthcare settings. 
       - This dataset will be used to train and test the machine learning model.
- - [Data preprocessing](): The collected data will be preprocessed to remove noise and ensure that it is suitable for training the machine learning model.
- - [Model training](): A machine learning model, such as a convolutional neural network (CNN), will be trained on the preprocessed data to recognize and classify different handwritten characters and symbols to generate automatic reports.
- - [NLP component](): An NLP component will be implemented to understand the meaning of the text on the prescriptions and extract relevant information.
- - [Evaluation](): The performance of the system will be evaluated on a separate test dataset to assess its accuracy and robustness.
+
+- [Data preprocessing](): The collected data will be preprocessed to remove noise and ensure that it is suitable for training the machine learning model. 
+    - This can involve techniques such as cropping, resizing, and thresholding to extract the handwritten text from the prescriptions.
+
+ - [Feature extraction](): In this step, relevant features from the preprocessed data will be extracted. 
+     - These features will be used to train the machine learning model. 
+     - Commonly used features for handwriting recognition tasks include pixel values, gradient information, and contour information.
+
+- [Model training](): A machine learning model, such as a convolutional neural network (CNN), will be trained on the preprocessed data to recognize and classify different handwritten characters and symbols to generate automatic reports.
+     -  The model will be trained using a supervised learning approach, where the correct class labels are provided for the training data.
  
+ - [Model evaluation](): The trained model will be evaluated on a separate test dataset to assess its accuracy and robustness. 
+    - Common evaluation metrics for handwriting recognition tasks include accuracy, precision, and recall.
+ 
+  - [NLP component](): An NLP component will be implemented to understand the meaning of the text on the prescriptions and extract relevant information.
+    - This can be achieved using techniques such as named entity recognition and part-of-speech tagging.
+
+- [System Evaluation](): The performance of the system will be evaluated on a separate test dataset to assess its accuracy and robustness in reading and interpreting handwritten prescriptions..
+
+- [Fine-tuning and optimization](): If the performance of the system is not satisfactory, the model and NLP component can be fine-tuned and optimized to improve their performance. 
+   - This can involve adjusting the model architecture, changing the training parameters, and adding more data to the training set.
+
+- [Deployment](): Once the system has been developed and tested, it can be deployed in a real-world setting to read and interpret handwritten prescriptions from doctors.
+
  ## Expected outcomes:
 
 - It is expected that the proposed project aims to develop an automated system that can accurately read and interpret handwritten prescriptions from doctors, significantly improving the accuracy and efficiency of medication management. 
